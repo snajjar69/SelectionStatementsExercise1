@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices.JavaScript;
 
-namespace SelectionStamentsExcersise_NEW;
+namespace SelectionStatementsExcersise;
 
 class Program
 {
